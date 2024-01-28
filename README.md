@@ -8,6 +8,7 @@ Basic app :
 - Logging (Slf4j)
 - 1 TU Controller Rest
 - 1 .http test
+- Properties with .properties file
 - Lombok
 - MapStruct
 
