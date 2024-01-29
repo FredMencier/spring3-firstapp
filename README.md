@@ -3,7 +3,7 @@ Sample App With Springboot3
 
 Basic app :
 - Base H2 in Memory (Preload en SQL)
-- 1 Controller REST (GET)
+- 1 Controller REST (RequestMapping GET)
 - 2 Entity (1 Relation ManyToOne)
 - Logging (Slf4j)
 - 1 TU Controller Rest
